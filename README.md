@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If you want to know more, check out it [About myself](https://hondrytravis.github.io/)
+If you want to know more, check out it [about myself](https://hondrytravis.github.io/)
