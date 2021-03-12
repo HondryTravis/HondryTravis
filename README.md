@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 If you want to know more, check out it [about myself](https://hondrytravis.github.io/)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HondryTravis)](https://github.com/anuraghazra/github-readme-stats)
