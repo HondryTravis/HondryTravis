@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![travis's github stats](https://github-readme-stats.vercel.app/api?username=HondryTravis)](https://github.com/anuraghazra/github-readme-stats)  -->
+![travis's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HondryTravis&theme=nord&layout=compact)
 
 If you want to know more, check out it [about myself](https://hondrytravis.github.io/)
