@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 If you want to know more, check out it [about myself](https://hondrytravis.github.io/)
