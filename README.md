@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-MDX          2 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   43.21 % 
-YAML         50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-JSON         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-TypeScript   44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-JavaScript   42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+MDX          3 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   32.80 % 
+JavaScript   3 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+TypeScript   1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 % 
+JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+YAML         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 ```
 <!--END_SECTION:waka-->
 
