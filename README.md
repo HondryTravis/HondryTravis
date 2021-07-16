@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HondryTravis&count_private=true&disable_animations=true&hide_title=true&hide=stars)
-<!-- [![travis's github stats](https://github-readme-stats.vercel.app/api?username=HondryTravis)](https://github.com/anuraghazra/github-readme-stats)  -->
-<!-- ![travis's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HondryTravis&theme=nord&layout=compact) -->
+![travis's github stats](https://github-readme-stats.vercel.app/api?username=HondryTravis&hide_title=true&hide=stars)
+### Most used
+![travis's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HondryTravis&layout=compact&hide_title=true)
 
 📊 **Weekly development breakdown**
 
