@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![travis's github stats](https://github-readme-stats.vercel.app/api?username=HondryTravis&hide_title=true&hide=stars)
+![travis's github stats](https://github-readme-stats.vercel.app/api?username=HondryTravis&hide=stars)
 ### Most used
 ![travis's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HondryTravis&layout=compact&hide_title=true)
 
