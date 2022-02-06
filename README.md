@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     3 mins          ███████████████████████░░   92.47 % 
+Markdown     6 mins          ████████████████████████▒   97.28 % 
 ```
 <!--END_SECTION:waka-->
 
