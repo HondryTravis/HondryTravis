@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```txt
 TypeScript   2 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
 Vue.js       2 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
-JSON         1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+JSON         1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
 HTML         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
 SCSS         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
 ```
