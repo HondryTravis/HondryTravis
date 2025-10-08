@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 25 mins    ███████████████████▒░░░░░   77.56 %
-Markdown     24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
